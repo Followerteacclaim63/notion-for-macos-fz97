@@ -1,4 +1,4 @@
-#  
+#  Notion for macOS updated Plugin: reminders & focus mode offers the most advanced Notion for macOS plugin, with reminders and focus mode. Ideal for professionals.
 
 
 
